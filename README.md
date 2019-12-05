@@ -1,0 +1,2 @@
+# Snake-game-novice-
+This snake game is my absolute first application. In my oppinion this version is quite an original since I could not find anything similar on eather github or stack overflow. The snake is not original, I am refering to the methods used to control the snake.  It sure is not the optimal way however I with joy recieve feedback about ways to optimize it, wrong usage of classes and PEP 8.  Death is disabled however you will recieve a message that you died so you can continue playing and maybe experince bugs that I am not aware of.
